@@ -1,5 +1,5 @@
 # Smart Contract Security - Reentrancy attack
-Practical example of the reentracy vulnerability and how to protect against it
+Reentracy vulnerability and how to protect against it
 
 ## Technology Stack & Dependencies
 
